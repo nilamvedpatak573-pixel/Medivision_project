@@ -1,2 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+models/third_feature_models/brfss2022_data_wrangling_output/*.csv filter=lfs diff=lfs merge=lfs -text
+models/third_feature_models/brfss2022_data_wrangling_output/*.zip filter=lfs diff=lfs merge=lfs -text

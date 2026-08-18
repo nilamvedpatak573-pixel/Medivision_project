@@ -14,12 +14,12 @@ python-dotenv
 PyMuPDF
 pytesseract
 Pillow
+langchain==0.2.16
+langchain-community==0.2.16
+langchain-core==0.2.41
+langchain-groq==0.1.9
+langchain-huggingface==0.0.3
 faiss-cpu
-langchain
-langchain-community
-langchain-core
-langchain-groq
-langchain-huggingface
 sentence-transformers
 huggingface-hub
 groq
